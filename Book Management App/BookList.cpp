@@ -59,7 +59,7 @@ Iterator BookList::begin()
 {
 	Iterator iter;
 	iter.container = this;
-   iter.position = head;
+   	iter.position = head;
 	return iter;
 }
 
@@ -173,17 +173,17 @@ void BookList::split(BookList& splitOne, BookList& splitTwo)
 		string lName = b.getLast();
 		for(int i = 65; i <= 77; i++)
 		{
-		   if(lName[0] == i)
-         {
-           splitOne.create(b);
-         }
+		   	if(lName[0] == i)
+			{
+			   splitOne.create(b);
+			}
 		}
 		for(int i = 78; i <= 90; i++)
 		{
 		   if(lName[0] == i)
-         {
-           splitTwo.create(b);
-         }
+			{
+			   splitTwo.create(b);
+			}
 		}
 
 		iter.next();
