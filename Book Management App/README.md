@@ -13,6 +13,8 @@ Input text file categories.txt will contain the names of the book categories, on
 name (a single word) per line. Your program should not make any assumptions in
 advance about which categories and how many of them.
 
+Check the input folder for input files.
+
 ## Category book lists
 For each category, such as history, there will be a corresponding text file, such as
 history.txt, that contains information about books in that category, one book per line.
@@ -38,3 +40,5 @@ Finally, split the merged list into two new lists, each sorted by ISBN. One list
 contain books with authors whose last names start with A – M, and the other list should
 contain books with authors whose last names start with N – Z. Print each author list and
 include the count of books in the list.
+
+Check the expected output folder to check the format of expected output.
