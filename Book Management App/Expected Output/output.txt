@@ -1,0 +1,80 @@
+Book list: science
+Book{ISBN=978-0130460417, last=Mak, first=Ronald, title=Java Number Cruncher}
+Book{ISBN=978-0134177304, last=Horstmann, first=Cay, title=Core Java Volume I--Fundamentals}
+Book{ISBN=978-0470177075, last=Mak, first=Ronald, title=Writing Compilers}
+Book{ISBN=978-0470383285, last=Horstmann, first=Cay, title=Big C++}
+Book{ISBN=978-0471744870, last=Horstmann, first=Cay, title=Object-Oriented Design}
+Book{ISBN=978-0553380163, last=Hawking, first=Stephen, title=A Brief History of Time}
+Book{ISBN=978-1420946338, last=Einstein, first=Albert, title=Relativity: The Special and General Theory}
+Book{ISBN=978-1490592152, last=Newton, first=Isaac, title=The Principia}
+(8 books)
+Book list: history
+Book{ISBN=978-0060854935, last=Kennedy, first=John, title=Profiles in Courage}
+Book{ISBN=978-0195144031, last=Kennedy, first=David, title=Freedom from Fear}
+Book{ISBN=978-0345308238, last=Tuchman, first=Barbara, title=The March of Folly: From Troy to Vietnam}
+Book{ISBN=978-0345324252, last=Tuchman, first=Barbara, title=The Zimmermann Telegram}
+Book{ISBN=978-0345476098, last=Tuchman, first=Barbara, title=The Guns of August}
+Book{ISBN=978-0671869205, last=McCullough, first=David, title=Truman}
+Book{ISBN=978-0743226721, last=McCullough, first=David, title=1776}
+(7 books)
+Book list: mystery
+Book{ISBN=978-0307743657, last=King, first=Stephen, title=The Shining}
+Book{ISBN=978-0385543026, last=Grisham, first=John, title=Camino Island: A Novel}
+Book{ISBN=978-1501175466, last=King, first=Stephen, title=It: A Novel}
+Book{ISBN=978-9176372265, last=Doyle, first=Conon, title=The Adventures of Sherlock Holmes}
+(4 books)
+Book list: childrens
+Book{ISBN=978-0060256654, last=Silverstein, first=Shel, title=The Giving Tree}
+Book{ISBN=978-0439708180, last=Rowling, first=J., title=Harry Potter and the Sorcerer's Stone}
+Book{ISBN=978-0694003617, last=Brown, first=Margaret, title=Goodnight Moon}
+(3 books)
+Book list: MERGED
+Book{ISBN=978-0060256654, last=Silverstein, first=Shel, title=The Giving Tree}
+Book{ISBN=978-0060854935, last=Kennedy, first=John, title=Profiles in Courage}
+Book{ISBN=978-0130460417, last=Mak, first=Ronald, title=Java Number Cruncher}
+Book{ISBN=978-0134177304, last=Horstmann, first=Cay, title=Core Java Volume I--Fundamentals}
+Book{ISBN=978-0195144031, last=Kennedy, first=David, title=Freedom from Fear}
+Book{ISBN=978-0307743657, last=King, first=Stephen, title=The Shining}
+Book{ISBN=978-0345308238, last=Tuchman, first=Barbara, title=The March of Folly: From Troy to Vietnam}
+Book{ISBN=978-0345324252, last=Tuchman, first=Barbara, title=The Zimmermann Telegram}
+Book{ISBN=978-0345476098, last=Tuchman, first=Barbara, title=The Guns of August}
+Book{ISBN=978-0385543026, last=Grisham, first=John, title=Camino Island: A Novel}
+Book{ISBN=978-0439708180, last=Rowling, first=J., title=Harry Potter and the Sorcerer's Stone}
+Book{ISBN=978-0470177075, last=Mak, first=Ronald, title=Writing Compilers}
+Book{ISBN=978-0470383285, last=Horstmann, first=Cay, title=Big C++}
+Book{ISBN=978-0471744870, last=Horstmann, first=Cay, title=Object-Oriented Design}
+Book{ISBN=978-0553380163, last=Hawking, first=Stephen, title=A Brief History of Time}
+Book{ISBN=978-0671869205, last=McCullough, first=David, title=Truman}
+Book{ISBN=978-0694003617, last=Brown, first=Margaret, title=Goodnight Moon}
+Book{ISBN=978-0743226721, last=McCullough, first=David, title=1776}
+Book{ISBN=978-1420946338, last=Einstein, first=Albert, title=Relativity: The Special and General Theory}
+Book{ISBN=978-1490592152, last=Newton, first=Isaac, title=The Principia}
+Book{ISBN=978-1501175466, last=King, first=Stephen, title=It: A Novel}
+Book{ISBN=978-9176372265, last=Doyle, first=Conon, title=The Adventures of Sherlock Holmes}
+(22 books)
+Book list: AUTHORS A-M
+Book{ISBN=978-0060854935, last=Kennedy, first=John, title=Profiles in Courage}
+Book{ISBN=978-0130460417, last=Mak, first=Ronald, title=Java Number Cruncher}
+Book{ISBN=978-0134177304, last=Horstmann, first=Cay, title=Core Java Volume I--Fundamentals}
+Book{ISBN=978-0195144031, last=Kennedy, first=David, title=Freedom from Fear}
+Book{ISBN=978-0307743657, last=King, first=Stephen, title=The Shining}
+Book{ISBN=978-0385543026, last=Grisham, first=John, title=Camino Island: A Novel}
+Book{ISBN=978-0470177075, last=Mak, first=Ronald, title=Writing Compilers}
+Book{ISBN=978-0470383285, last=Horstmann, first=Cay, title=Big C++}
+Book{ISBN=978-0471744870, last=Horstmann, first=Cay, title=Object-Oriented Design}
+Book{ISBN=978-0553380163, last=Hawking, first=Stephen, title=A Brief History of Time}
+Book{ISBN=978-0671869205, last=McCullough, first=David, title=Truman}
+Book{ISBN=978-0694003617, last=Brown, first=Margaret, title=Goodnight Moon}
+Book{ISBN=978-0743226721, last=McCullough, first=David, title=1776}
+Book{ISBN=978-1420946338, last=Einstein, first=Albert, title=Relativity: The Special and General Theory}
+Book{ISBN=978-1501175466, last=King, first=Stephen, title=It: A Novel}
+Book{ISBN=978-9176372265, last=Doyle, first=Conon, title=The Adventures of Sherlock Holmes}
+(16 books)
+Book list: AUTHORS N_Z
+Book{ISBN=978-0060256654, last=Silverstein, first=Shel, title=The Giving Tree}
+Book{ISBN=978-0345308238, last=Tuchman, first=Barbara, title=The March of Folly: From Troy to Vietnam}
+Book{ISBN=978-0345324252, last=Tuchman, first=Barbara, title=The Zimmermann Telegram}
+Book{ISBN=978-0345476098, last=Tuchman, first=Barbara, title=The Guns of August}
+Book{ISBN=978-0439708180, last=Rowling, first=J., title=Harry Potter and the Sorcerer's Stone}
+Book{ISBN=978-1490592152, last=Newton, first=Isaac, title=The Principia}
+(6 books)
